@@ -1,12 +1,22 @@
 En cuanto pueda subire un extracto de los proyectos en los que he trabajado y trabajo actualmente.
 
-Indice.
-
+---
+INDICE.
+---
+             
 Proyecto 1: ShortMaker, el creador de videos cortos para redes sociales.
+
 Proyecto 2: MultiCam, el visor y grabador de camaras de seguridad para el hogar y la pequeña empresa.
+
 Proyecto 3:
+
 Proyecto 4:
+
 Proyecto 5:
+
+---
+PROYECTOS.
+---
 
 PROYECTO 1 # 🎬 ShortsMaker - Creador de Shorts para Editor Profesional de Video
 
