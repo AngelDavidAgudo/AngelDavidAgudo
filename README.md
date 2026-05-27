@@ -6,7 +6,7 @@ INDICE.
              
 Proyecto 1: ShortMaker, el creador de videos cortos para redes sociales.
 
-Proyecto 2: MultiCam, el visor y grabador de camaras de seguridad para el hogar y la pequeña empresa.
+Proyecto 2: MultiCam, visor y grabador de camaras de seguridad para el hogar y la pequeña empresa.
 
 Proyecto 3:
 
