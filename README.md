@@ -1,8 +1,5 @@
 En cuanto pueda subire un extracto de los proyectos en los que he trabajado y trabajo actualmente.
 
-
-
-
 Indice.
 
 Proyecto 1: ShortMaker, el creador de videos cortos para redes sociales.
@@ -11,15 +8,11 @@ Proyecto 3:
 Proyecto 4:
 Proyecto 5:
 
-PROYECTO 1 # 🎬 ShortsMaker - Editor Profesional de Video
+PROYECTO 1 # 🎬 ShortsMaker - Creador de Shorts para Editor Profesional de Video
 
-**ShortsMaker** es una herramienta de escritorio desarrollada desde cero para optimizar el flujo de trabajo en la creación de YouTube Shorts. Permite la edición de precisión, previsualización aislada y renderizado asíncrono en una interfaz gráfica fluida y profesional.
-
-*(Código fuente: Repositorio Privado)*
+ShortsMaker es una herramienta de escritorio desarrollada desde cero para optimizar el flujo de trabajo en la creación de YouTube Shorts. Permite la edición de precisión, previsualización aislada y renderizado asíncrono en una interfaz gráfica fluida y profesional.
 
 ---
-
-## 📸 Demostración
 
 UI:
 <img width="1240" height="1280" alt="ShortMakerV1" src="https://github.com/user-attachments/assets/c0145fe7-eec2-469a-b402-c33629cf4e2b" />
