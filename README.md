@@ -1,4 +1,4 @@
-En cuanto pueda subire un extracto de los proyectos en los que he trabajado y trabajo actualmente.
+Un extracto de los proyectos en los que he trabajado y trabajo actualmente, actualizaré proximamente.
 
 ---
 INDICE.
