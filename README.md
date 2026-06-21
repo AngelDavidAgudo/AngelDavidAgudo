@@ -8,7 +8,7 @@ Proyecto 1: ShortMaker, el creador de videos cortos para redes sociales.
 
 Proyecto 2: MultiCam, visor y grabador de camaras de seguridad para el hogar y la pequeña empresa.
 
-Proyecto 3: OkiDoki Player, el reproductor de musica en streaming sin cuotas para android e IOS.
+Proyecto 3: OkiDoki Player, el reproductor de musica y videoclips en streaming sin cuotas, sin publicidad para android e IOS.
 
 Proyecto 4: Centinela Pro, notificador de procesos de usuario activos en windows, envio de capturas de pantalla a canal en telegram.
 
