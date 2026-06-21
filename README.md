@@ -17,6 +17,7 @@ Proyecto 5: OSINTEA, instalacion y gestion de uso centralizado y automatizado de
 Proyecto 6: Tradok, conversor, traductor y maquetador de imagenes que contienen textos a texto modificable listos para imprimir o editar.
 
 Proyecto 7: RTS, en desarrollo un videojuego de estrategia en tiempo real para windows y android, proximamente disponible.
+
 ---
 PROYECTOS.
 ---
