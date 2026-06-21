@@ -12,7 +12,9 @@ Proyecto 3: OkiDoki Player, el reproductor de musica en streaming sin cuotas par
 
 Proyecto 4: Centinela Pro, notificador de procesos de usuario activos en windows, envio de capturas de pantalla a canal en telegram.
 
-Proyecto 5: 
+Proyecto 5: OSINTEA, instalacion y gestion de uso centralizado y automatizado de herramientas OSINT.
+
+Proyecto 6: Tradok, conversor, traductor y maquetador de imagenes que contienen textos a texto modificable listos para imprimir o editar.
 
 ---
 PROYECTOS.
