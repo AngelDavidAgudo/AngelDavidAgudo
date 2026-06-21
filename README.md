@@ -10,9 +10,9 @@ Proyecto 2: MultiCam, visor y grabador de camaras de seguridad para el hogar y l
 
 Proyecto 3: OkiDoki Player, el reproductor de musica en streaming sin cuotas para android e IOS.
 
-Proyecto 4:
+Proyecto 4: Centinela Pro, notificador de procesos de usuario activos en windows, envio de captura de pantalla a canal en telegram.
 
-Proyecto 5:
+Proyecto 5: 
 
 ---
 PROYECTOS.
