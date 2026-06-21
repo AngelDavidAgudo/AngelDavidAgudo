@@ -4,7 +4,7 @@ Un extracto de los proyectos en los que he trabajado y trabajo actualmente.
 INDICE.
 ---
              
-Proyecto 1: ShortMaker, el creador de videos cortos para redes sociales.
+Proyecto 1: ShortMaker, el creador de videos cortos para redes sociales, añade subtitulos, pistas de audio, sonidos, imagenes.
 
 Proyecto 2: MultiCam, visor y grabador de camaras de seguridad para el hogar y la pequeña empresa.
 
@@ -16,6 +16,7 @@ Proyecto 5: OSINTEA, instalacion y gestion de uso centralizado y automatizado de
 
 Proyecto 6: Tradok, conversor, traductor y maquetador de imagenes que contienen textos a texto modificable listos para imprimir o editar.
 
+Proyecto 7: RTS, en desarrollo un videojuego de estrategia en tiempo real para windows y android, proximamente disponible.
 ---
 PROYECTOS.
 ---
