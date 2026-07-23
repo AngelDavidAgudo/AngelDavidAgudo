@@ -18,6 +18,8 @@ Proyecto 6: Tradok, conversor, traductor y maquetador de imagenes que contienen 
 
 Proyecto 7: RTS, en desarrollo un videojuego de estrategia en tiempo real para windows y android, proximamente disponible.
 
+Proyecto 8: LLamaGUI, Panel de control para inferencia de modelos LLM con llama.cpp + monitor de hardware.
+
 ---
 PROYECTOS.
 ---
