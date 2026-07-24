@@ -31,7 +31,7 @@ ShortsMaker es una herramienta de escritorio desarrollada desde cero para optimi
 ---
 
 UI:
-<img width="1240" height="1280" alt="ShortMakerV1" src="https://github.com/user-attachments/assets/c0145fe7-eec2-469a-b402-c33629cf4e2b" />
+<img width="1280" height="688" alt="image" src="https://github.com/user-attachments/assets/ebbb768a-db99-486c-987e-7d09452b4bf1" />
 
 Funcionamiento: 
 https://github.com/user-attachments/assets/4ad72986-bd62-4f3d-9d7b-52af52305709
