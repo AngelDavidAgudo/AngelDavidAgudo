@@ -26,7 +26,7 @@ PROYECTOS.
 
 PROYECTO 1 # 🎬 ShortsMaker - Creador de Shorts para edición Profesional de Video
 
-ShortsMaker es una herramienta de escritorio desarrollada desde cero para optimizar el flujo de trabajo en la creación de YouTube Shorts. Permite la edición de precisión, previsualización aislada y renderizado asíncrono en una interfaz gráfica fluida y profesional.
+ShortsMaker es una herramienta de escritorio desarrollada desde cero para optimizar el flujo de trabajo en la creación de Shorts para las principales plataformas. Permite la edición de precisión, previsualización aislada y renderizado asíncrono en una interfaz gráfica fluida y profesional.
 
 ---
 
